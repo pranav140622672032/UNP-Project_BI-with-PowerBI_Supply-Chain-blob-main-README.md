@@ -1,4 +1,4 @@
-# UPN-Power_BI-with-PowerBI_Supply-Chain-blob-main-README.md
+# UPN-Power_BI-with-PowerBI_Supply-Chain
 Overview of multi products and trends of sales and reach of customers work of product analysis attributes
 Ardently involved in creating Data model,implementing Data transformation and Caluclation using DAX for accurate analysis
 
